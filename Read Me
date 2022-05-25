@@ -1,0 +1,11 @@
+TWO Projects 
+i. Student information system of engineering
+ii. Sales report (dashboard) of atliq hardware company
+
+Description of dataset
+
+A student project's dhaboard is designed based on .csv file which is downloaded from the CHARUSAT university e-governance system.
+Sales Dashboard is developed using SQL database of atliq hardware sales records of last 4 years. It is having multiple tables and entries in the tables.
+
+NOTE regarding required tools:
+To implement sales project required to have SQL and SQL workbench to dump the database and connect the database.
